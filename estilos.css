@@ -1,0 +1,28 @@
+@font-face{
+    font-family: Lobster;
+    src:url(Lobster-Regular.ttf);
+}
+
+body{
+    background-color: blue;
+    font-family: Lobster;
+}
+
+.texto-centrado{
+    text-align: center;
+    background-color: rgb(99, 133, 121);
+    border-radius: 10px;
+}
+
+a{
+    width: 20%;
+}
+
+img{
+    width: 100%;
+}
+
+#imagen-boton{
+    margin: 10% 40% 10% 40%;
+    display: block;
+}
